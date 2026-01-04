@@ -1,0 +1,27 @@
+2026-01-04 09:51:51,501 | INFO | Starting Phase 2
+2026-01-04 09:52:27,746 | INFO | Starting Phase 2
+2026-01-04 09:54:14,301 | INFO | Starting Phase 2
+2026-01-04 09:55:30,739 | INFO | Starting Phase 2
+2026-01-04 09:55:33,306 | INFO | Page 1 scale_x=4.17, scale_y=4.17
+2026-01-04 09:55:33,370 | INFO | Page 1: 1 table(s) detected
+2026-01-04 09:55:33,370 | INFO | Page 2 scale_x=4.17, scale_y=4.17
+2026-01-04 09:55:33,410 | INFO | Page 2: 1 table(s) detected
+2026-01-04 09:55:33,410 | INFO | Page 3 scale_x=4.17, scale_y=4.17
+2026-01-04 09:55:33,448 | INFO | Page 3: 1 table(s) detected
+2026-01-04 09:55:33,449 | INFO | Phase 2 completed successfully
+2026-01-04 09:56:01,711 | INFO | Starting Phase 2
+2026-01-04 09:56:02,368 | INFO | Page 1 scale_x=4.17, scale_y=4.17
+2026-01-04 09:56:02,421 | INFO | Page 1: 1 table(s) detected
+2026-01-04 09:56:02,422 | INFO | Page 2 scale_x=4.17, scale_y=4.17
+2026-01-04 09:56:02,462 | INFO | Page 2: 1 table(s) detected
+2026-01-04 09:56:02,462 | INFO | Page 3 scale_x=4.17, scale_y=4.17
+2026-01-04 09:56:02,513 | INFO | Page 3: 1 table(s) detected
+2026-01-04 09:56:02,513 | INFO | Phase 2 completed successfully
+2026-01-04 09:58:05,124 | INFO | Starting Phase 2
+2026-01-04 09:58:05,728 | INFO | Page 1 scale_x=4.17, scale_y=4.17
+2026-01-04 09:58:05,773 | INFO | Page 1: 1 table(s) detected
+2026-01-04 09:58:05,773 | INFO | Page 2 scale_x=4.17, scale_y=4.17
+2026-01-04 09:58:05,811 | INFO | Page 2: 1 table(s) detected
+2026-01-04 09:58:05,811 | INFO | Page 3 scale_x=4.17, scale_y=4.17
+2026-01-04 09:58:05,850 | INFO | Page 3: 1 table(s) detected
+2026-01-04 09:58:05,850 | INFO | Phase 2 completed successfully

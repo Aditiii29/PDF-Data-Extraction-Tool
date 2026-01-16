@@ -34,3 +34,131 @@
 2026-01-04 11:58:23,702 | INFO | Page 3: 1 table(s)
 2026-01-04 11:58:23,704 | INFO | Page 3 | Table 1: 37 cells detected
 2026-01-04 11:58:23,705 | INFO | Phase 3 completed successfully
+2026-01-06 23:22:29,376 | INFO | Starting Phase 3
+2026-01-06 23:22:34,366 | INFO | Page 1: 1 table(s)
+2026-01-06 23:22:34,368 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-06 23:22:34,463 | INFO | Page 2: 1 table(s)
+2026-01-06 23:22:34,466 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-06 23:22:34,556 | INFO | Page 3: 1 table(s)
+2026-01-06 23:22:34,564 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-06 23:22:34,565 | INFO | Phase 3 completed successfully
+2026-01-07 17:43:05,853 | INFO | Starting Phase 3
+2026-01-07 17:43:11,819 | INFO | Page 1: 1 table(s)
+2026-01-07 17:43:11,821 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 17:43:11,890 | INFO | Page 2: 1 table(s)
+2026-01-07 17:43:11,892 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 17:43:11,961 | INFO | Page 3: 1 table(s)
+2026-01-07 17:43:11,965 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 17:43:11,965 | INFO | Phase 3 completed successfully
+2026-01-07 17:46:04,030 | INFO | Starting Phase 3
+2026-01-07 17:46:05,060 | INFO | Page 1: 1 table(s)
+2026-01-07 17:46:05,062 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 17:46:05,102 | INFO | Page 2: 1 table(s)
+2026-01-07 17:46:05,108 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 17:46:05,143 | INFO | Page 3: 1 table(s)
+2026-01-07 17:46:05,159 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 17:46:05,159 | INFO | Phase 3 completed successfully
+2026-01-07 17:47:42,388 | INFO | Starting Phase 3
+2026-01-07 17:47:43,196 | INFO | Page 1: 1 table(s)
+2026-01-07 17:47:43,196 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 17:47:43,253 | INFO | Page 2: 1 table(s)
+2026-01-07 17:47:43,255 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 17:47:43,304 | INFO | Page 3: 1 table(s)
+2026-01-07 17:47:43,307 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 17:47:43,307 | INFO | Phase 3 completed successfully
+2026-01-07 17:51:39,474 | INFO | Starting Phase 3
+2026-01-07 17:51:40,486 | INFO | Page 1: 1 table(s)
+2026-01-07 17:51:40,488 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 17:51:40,529 | INFO | Page 2: 1 table(s)
+2026-01-07 17:51:40,529 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 17:51:40,578 | INFO | Page 3: 1 table(s)
+2026-01-07 17:51:40,580 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 17:51:40,580 | INFO | Phase 3 completed successfully
+2026-01-07 22:07:13,811 | INFO | Starting Phase 3
+2026-01-07 22:07:15,677 | INFO | Page 1: 1 table(s)
+2026-01-07 22:07:15,681 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 22:07:15,747 | INFO | Page 2: 1 table(s)
+2026-01-07 22:07:15,749 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 22:07:15,812 | INFO | Page 3: 1 table(s)
+2026-01-07 22:07:15,816 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 22:07:15,816 | INFO | Phase 3 completed successfully
+2026-01-07 22:07:16,718 | INFO | Starting Phase 3
+2026-01-07 22:07:17,913 | INFO | Page 1: 1 table(s)
+2026-01-07 22:07:17,916 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-07 22:07:17,986 | INFO | Page 2: 1 table(s)
+2026-01-07 22:07:17,988 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-07 22:07:18,058 | INFO | Page 3: 1 table(s)
+2026-01-07 22:07:18,065 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-07 22:07:18,066 | INFO | Phase 3 completed successfully
+2026-01-15 14:48:27,379 | INFO | Starting Phase 4
+2026-01-15 14:48:32,719 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-15 14:48:32,777 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-15 14:48:32,837 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-15 14:48:32,840 | INFO | Phase 4 completed successfully
+2026-01-15 14:48:51,869 | INFO | Starting Phase 4
+2026-01-15 14:48:52,609 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-15 14:48:52,668 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-15 14:48:52,714 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-15 14:48:52,714 | INFO | Phase 4 completed successfully
+2026-01-15 14:56:40,921 | INFO | Starting Phase 3
+2026-01-15 14:56:41,692 | INFO | Page 1: 1 table(s)
+2026-01-15 14:56:41,697 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-15 14:56:41,739 | INFO | Page 2: 1 table(s)
+2026-01-15 14:56:41,739 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-15 14:56:41,798 | INFO | Page 3: 1 table(s)
+2026-01-15 14:56:41,801 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-15 14:56:41,801 | INFO | Phase 3 completed successfully
+2026-01-15 14:56:41,814 | INFO | Starting Phase 4
+2026-01-15 14:56:42,623 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-15 14:56:42,681 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-15 14:56:42,730 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-15 14:56:42,732 | INFO | Phase 4 completed successfully
+2026-01-15 15:02:06,845 | INFO | Starting Phase 3
+2026-01-15 15:02:07,581 | INFO | Page 1: 1 table(s)
+2026-01-15 15:02:07,594 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-15 15:02:07,632 | INFO | Page 2: 1 table(s)
+2026-01-15 15:02:07,632 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-15 15:02:07,677 | INFO | Page 3: 1 table(s)
+2026-01-15 15:02:07,677 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-15 15:02:07,677 | INFO | Phase 3 completed successfully
+2026-01-15 15:02:07,691 | INFO | Starting Phase 4
+2026-01-15 15:02:08,393 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-15 15:02:08,446 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-15 15:02:08,502 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-15 15:02:08,503 | INFO | Phase 4 completed successfully
+2026-01-15 18:19:06,515 | INFO | Starting Phase 3
+2026-01-15 18:19:09,421 | INFO | Page 1: 1 table(s)
+2026-01-15 18:19:09,423 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-15 18:19:09,539 | INFO | Page 2: 1 table(s)
+2026-01-15 18:19:09,541 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-15 18:19:09,679 | INFO | Page 3: 1 table(s)
+2026-01-15 18:19:09,691 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-15 18:19:09,693 | INFO | Phase 3 completed successfully
+2026-01-15 18:19:09,707 | INFO | Starting Phase 4
+2026-01-15 18:19:11,818 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-15 18:19:12,139 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-15 18:19:12,257 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-15 18:19:12,263 | INFO | Phase 4 completed successfully
+2026-01-16 22:57:21,003 | INFO | Starting Pipeline
+2026-01-16 22:57:23,084 | INFO | Processing Page 1
+2026-01-16 22:57:23,218 | INFO | Page 1: 1 table(s) detected
+2026-01-16 22:57:23,222 | INFO | Page 1 | Table 1: 9 cells detected
+2026-01-16 22:57:23,223 | INFO | Page 1 | Table 1: 9 cell values mapped
+2026-01-16 22:57:23,223 | INFO | Starting Phase 5
+2026-01-16 22:57:23,228 | INFO | Page 1 | Table 1: Table reconstructed with shape (4, 3)
+2026-01-16 22:57:23,228 | INFO | Phase 5 completed successfully
+2026-01-16 22:57:23,247 | INFO | Processing Page 2
+2026-01-16 22:57:23,337 | INFO | Page 2: 1 table(s) detected
+2026-01-16 22:57:23,339 | INFO | Page 2 | Table 1: 16 cells detected
+2026-01-16 22:57:23,340 | INFO | Page 2 | Table 1: 16 cell values mapped
+2026-01-16 22:57:23,340 | INFO | Starting Phase 5
+2026-01-16 22:57:23,341 | INFO | Page 2 | Table 1: Table reconstructed with shape (5, 4)
+2026-01-16 22:57:23,341 | INFO | Phase 5 completed successfully
+2026-01-16 22:57:23,355 | INFO | Processing Page 3
+2026-01-16 22:57:23,463 | INFO | Page 3: 1 table(s) detected
+2026-01-16 22:57:23,468 | INFO | Page 3 | Table 1: 37 cells detected
+2026-01-16 22:57:23,470 | INFO | Page 3 | Table 1: 37 cell values mapped
+2026-01-16 22:57:23,470 | INFO | Starting Phase 5
+2026-01-16 22:57:23,483 | INFO | Page 3 | Table 1: Table reconstructed with shape (6, 7)
+2026-01-16 22:57:23,483 | INFO | Phase 5 completed successfully
+2026-01-16 22:57:23,508 | INFO | Pipeline completed successfully

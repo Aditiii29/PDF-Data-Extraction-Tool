@@ -1,4 +1,4 @@
-import re
+import re    #regeix module for text processing
 
 def normalize_text(text: str) -> str:
     if not text:
